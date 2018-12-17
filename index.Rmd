@@ -16,10 +16,12 @@ Basic Schedule. We will roughly follow this, but the exact amount of time we spe
 
 In class discussions and commands will be posted in an etherpad <https://public.etherpad-mozilla.org/p/mars2018microbiome>
 
+
+
 Day|Session|Topic
 ------|-------|--------
-Day 1|Morning| [Introduction to communities](https://krmaas.github.io/MARS-2018reproducibleStats/intro.communities.html)
-.|.|Overview of wetlab
+Day 1|Morning| [Introduction to communities](https://krmaas.github.io/MARS2018me/intro.communities.html)
+.|.|[Overview of wetlab](https://krmaas.github.io/MARS2018me/wetLabErrors.html)
 .|.|Introduction to command line
 .|Afternoon|Introduction to Basespace
 .|.|Begin mothur processing
