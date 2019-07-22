@@ -1,7 +1,7 @@
 ---
 title: "Microbiome and Community analysis"
 author: "Kendra Maas"
-date: "December 17, 2018"
+date: "July 22, 2019"
 output: html_document
 ---
 
@@ -21,8 +21,8 @@ In class discussions and commands will be posted in an etherpad <https://public.
 Day|Session|Topic
 ------|-------|--------
 Day 1|Morning| [Introduction to communities](https://krmaas.github.io/MARS2018me/intro.communities.html)
-.|.|[Overview of wetlab](https://krmaas.github.io/MARS2018me/wetLabErrors.html)
-.|.|Introduction to command line
+.|.|Overview of wetlab
+.|.|[Potential wetlab errors](https://krmaas.github.io/MARS2018me/wetLabErrors.html)
 .|Afternoon|Introduction to Basespace
 .|.|Begin mothur processing
 .|.|Sequencing quality control
@@ -31,15 +31,10 @@ Day 2|Morning|Continue mothur processing
 .|.|Taxonomic assignment
 .|Afternoon|OTU clustering
 .|.|Calculate alpha and beta diversity
-.|.|DADA2?
 Day 3|Morning|Reproducible Research
 .|.|Introduction to R
 .|Afternoon|Importing data into R
 .|.|Subsetting, joining, data management
 Day 4|Morning|Ecological statists
 .|.|ggplot
-.|Afternoon|Hypothesis testing
-Day 5|Morning|Indicator species analysis
-.|.|More complex figures
-.|Afternoon|Version control?
-.|.|Finish up topics and Class requests
+.|Afternoon|Hypothesis testing &Indicator Species Analysis
