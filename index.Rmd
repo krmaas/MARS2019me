@@ -14,15 +14,15 @@ Microbes control the world! And with advances in molecular techniques, esp. DNA 
 
 Basic Schedule. We will roughly follow this, but the exact amount of time we spend on each topic will be adjusted depending on the class.
 
-In class discussions and commands will be posted in an etherpad <https://public.etherpad-mozilla.org/p/mars2018microbiome>
+In class discussions and commands will be posted in an etherpad <https://public.etherpad-mozilla.org/p/mars2018me>
 
 
 
 Day|Session|Topic
 ------|-------|--------
-Day 1|Morning| [Introduction to communities](https://krmaas.github.io/MARS2018me/intro.communities.html)
-.|.|Overview of wetlab
-.|.|[Potential wetlab errors](https://krmaas.github.io/MARS2018me/wetLabErrors.html)
+Day 1|Morning| [Introduction to communities](https://krmaas.github.io/MARS2019me/intro.communities.html)
+.|.|[Overview of wetlab](https://krmaas.github.io/MARS2019me/introWetLab.html)
+.|.|[Potential wetlab errors](https://krmaas.github.io/MARS2019me/wetLabErrors.html)
 .|Afternoon|Introduction to Basespace
 .|.|Begin mothur processing
 .|.|Sequencing quality control
